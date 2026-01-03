@@ -2,8 +2,6 @@
 
 This repository contains a small configuration and translations for using a "conventional gitmoji" commit style with the Gitmoji Plus Commit Button IntelliJ plugin.
 
-> ⚠️ The configuration options is not yet available in the stable release of the plugin. See [this MR](https://github.com/patou/gitmoji-plus-commit-button/pull/164)
-
 ## Specification
 
 This configuration implements the [conventional gitmoji concept](https://conventional-gitmoji.web.app/) created by [Ackee](https://ackee.cz). 
